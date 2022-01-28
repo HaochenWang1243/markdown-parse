@@ -1,1 +1,1 @@
-[notlink]no(ppap.com)
+[notlink]no(ppap)
