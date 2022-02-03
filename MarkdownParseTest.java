@@ -40,7 +40,7 @@ public class MarkdownParseTest {
     }
     @Test
     public void getLinks5() throws IOException{
-        Path fileName = Path.of("/Users/hhhqss/Downloads/cse12-wi22-pa3-LinkedList-starter-main/markdown-parse/test5-file.md");
+        Path fileName = Path.of("test5-file.md");
 	    String contents = Files.readString(fileName);
         assertEquals(List.of(), MarkdownParse.getLinks(contents));
     }
