@@ -1,0 +1,22 @@
+{
+	"folders": [
+		{
+			"path": "../cse12-wi22-pa5-HashTable-starter-main"
+		},
+		{
+			"path": "../markdown-parse-main"
+		},
+		{
+			"path": "../cse12-wi22-pa3-LinkedList-starter-main/markdown-parse"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"java.project.referencedLibraries": [
+			"lib/**/*.jar",
+			"libs/**/*.jar"
+		]
+	}
+}
